@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\net45\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\net45\Newtonsoft.Json.pdb
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\net45\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\net45\Newtonsoft.Json.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\net45\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\net45\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\net45\Newtonsoft.Json.pdb

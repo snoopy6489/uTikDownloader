@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\netstandard1.0\Newtonsoft.Json.deps.json
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\netstandard1.0\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\netstandard1.0\Newtonsoft.Json.pdb
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\bin\Debug\netstandard1.0\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\netstandard1.0\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\netstandard1.0\Newtonsoft.Json.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\netstandard1.0\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\netstandard1.0\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\uTikDownloadHelper-master\Newtonsoft.Json\Src\Newtonsoft.Json\obj\Debug\netstandard1.0\Newtonsoft.Json.pdb
